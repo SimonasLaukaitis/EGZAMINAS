@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13488551870",
+    "project_id": "egzaminas-27fba",
+    "storage_bucket": "egzaminas-27fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13488551870:android:68cffa5646c65ad4806bef",
+        "android_client_info": {
+          "package_name": "com.example.egzaminas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13488551870-c0hvd5pjqd5p8r81b2f7k81g73r2tdsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egzaminas",
+            "certificate_hash": "ed014cb57715e8f0e6013dde059a8bf40df64c48"
+          }
+        },
+        {
+          "client_id": "13488551870-44gck0pob70q9g5mko4ljhut5bjo0358.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRVx3I5FK3qx1qMCimCuF42ryKJ-9bSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13488551870-44gck0pob70q9g5mko4ljhut5bjo0358.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
